@@ -13,11 +13,16 @@ Welcome! Feel free to browse some of the projects I've developed myself.
 <br>
 <br>
 ### My Progress
+
+<br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-rian&layout=compact&langs_count=8&card_width=320" />
+</a>
+<br>
 <br>
 
-[![Joel M. Stats](https://github-readme-stats.vercel.app/api?username=joel-rian)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-rian&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-rian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **contactJoel/contactJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
