@@ -21,10 +21,6 @@ Welcome! Feel free to browse some of the projects I've developed myself.
 <br>
 <br>
 
-![Joel GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-rian&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-rian&langs_count=8)
-
 
 <!--
 **contactJoel/contactJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
