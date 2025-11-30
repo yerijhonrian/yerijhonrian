@@ -12,14 +12,9 @@ Welcome! Feel free to browse some of the projects I've developed myself.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
 <br>
-### My Progress
 
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-rian&layout=compact&langs_count=8&card_width=320" />
-</a>
-<br>
-<br>
+
+
 
 
 <!--
