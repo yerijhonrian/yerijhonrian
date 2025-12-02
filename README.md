@@ -22,7 +22,7 @@ O portfólio abrange diferentes domínios, provando a versatilidade do desenvolv
 | :--- | :--- | :--- |
 | **ConversaoDeMoeda** | Finanças/Criptomoedas | Consumo de **API Assíncrona** e Lógica de Cálculo. |
 | **MinhasFinancas** | Gestão de Dados Pessoais | **Persistência de Dados** (Local Storage) e Otimização de Dados. |
-| **Casa-de-Racoes** | E-commerce/Vendas | **Resultados de Negócio** (Aumento de 30% no lucro) e Estratégia de Leads. |
+| **Casa-de-Racoes** | E-commerce/Vendas | **Resultados de Negócio** (Aumento de 30% no lucro/otimização) e Estratégia de Leads. |
 | **Portifolio** | Apresentação Profissional | **JavaScript Puro** para Carrossel, Filtros e UX. |
 | **2PAC** | Conteúdo/Biografia | **Semântica HTML5** e Estrutura de Conteúdo. |
 
