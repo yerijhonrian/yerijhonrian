@@ -97,35 +97,6 @@ Aplicação para organização e controle de finanças pessoais com entradas, sa
 ## 🎓 Educação
 
 **Full Stack Development** — DevClub (Em andamento)
-
----
-
-## 💡 Meus Valores
-
-**Compromisso com cada projeto** - Cada cliente merece atenção total e soluções customizadas que geram impacto real.
-
-**Código limpo e organizado** - Facilita manutenção, escalabilidade e colaboração em equipe.
-
-**Aprendizado contínuo** - Tecnologia evolui rapidamente; estou sempre me atualizando com as melhores práticas.
-
-**Foco em resultados** - O objetivo é gerar valor e eficiência para o negócio do cliente.
-
-**Excelente comunicação** - Trabalho transparente e alinhado com as expectativas do cliente.
-
----
-
-## 🌍 Conecte-se Comigo
-
-📧 **Email:** [contato.yerijhonrian@gmail.com](mailto:contato.yerijhonrian@gmail.com)
-
-🔗 **Portfolio:** [yerijhonjoelriandev.online](https://yerijhonjoelriandev.online)
-
-💼 **LinkedIn:** [@yerijhon-rian](https://www.linkedin.com/in/yerijhon-rian)
-
-💬 **WhatsApp:** [Clique aqui para conversar](https://wa.me/5574999094232?text=Olá,%20quero%20agendar%20um%20atendimento.)
-
-📍 **Localização:** Brasil (Remote)
-
 ---
 
 ## 📈 Estatísticas GitHub
