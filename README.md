@@ -101,9 +101,9 @@ Aplicação para organização e controle de finanças pessoais com entradas, sa
 
 ## 📈 Estatísticas GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-rian&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yerijhonrian&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joel-rian&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yerijhonrian&show_icons=true&theme=dark&count_private=true)
 
 ---
 
