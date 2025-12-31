@@ -98,15 +98,6 @@ Aplicação para organização e controle de finanças pessoais com entradas, sa
 
 **Full Stack Development** — DevClub (Em andamento)
 ---
-
-## 📈 Estatísticas GitHub
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yerijhonrian&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yerijhonrian&show_icons=true&theme=dark&count_private=true)
-
----
-
 ## 🤝 Vamos Trabalhar Juntos?
 
 Se você está procurando um desenvolvedor Full Stack que não apenas escreve código limpo e bem documentado, mas que também pensa estrategicamente sobre como otimizar seus processos e gerar impacto real no seu negócio, **vamos conversar!**
