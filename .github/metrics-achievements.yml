@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Use a PAT stored in repository secrets
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_HUB }}
           user: yerijhonrian
           base: ""
           filename: metrics.achievements.svg
