@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: yerijhonrian
-          template: dark
+          template: classic
           base: ""
 
           filename: metrics.svg
