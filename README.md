@@ -32,6 +32,12 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 
 ---
 
+## 🎮 GitHub Dashboard
+
+![Dashboard](https://raw.githubusercontent.com/yerijhonrian/yerijhonrian/main/metrics.dashboard.svg)
+
+---
+
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
