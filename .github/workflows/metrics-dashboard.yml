@@ -13,15 +13,24 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Seu usuário
           user: yerijhonrian
+
+          # Tema e layout
           template: classic
+          config_display: large
+
+          # Base (header + repos)
           base: header, repositories
 
+          # Arquivo gerado
           filename: metrics.dashboard.svg
 
+          # ⭐ Stars / Star lists (equivalente ao "7 Star lists")
           plugin_stars: yes
           plugin_stars_limit: 6
 
+          # 🧩 Languages (barras + % + stars)
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
@@ -29,8 +38,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 2%
 
+          # 🏆 Achievements (opcional, mas combina com o dashboard)
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-
-          config_display: large
