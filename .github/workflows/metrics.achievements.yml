@@ -22,7 +22,7 @@ jobs:
 
           user: yerijhonrian
           base: ""
-          filename: metrics.achievements.svg
+          filename: ./metrics.achievements.svg
 
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -41,10 +41,3 @@ jobs:
             explorer,
             infographile,
             manager
-
-      - name: Commit and push metrics
-        run: |
-          git status
-          git add metrics.achievements.svg
-          git commit -m "Update achievements metrics" || echo "No changes"
-          git push
