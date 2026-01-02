@@ -42,3 +42,10 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add metrics.dashboard.svg
+          git commit -m "Update dashboard metrics" || echo "No changes to commit"
+          git push
