@@ -2,32 +2,35 @@ name: GitHub Metrics - Achievements Compact
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda 1x por dia
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
+
     steps:
+      # 🔧 1. Instalar dependências necessárias
+      - name: Setup dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
+
+      # 🏆 2. Gerar métricas
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Usuário
           user: yerijhonrian
-
-          # Base vazia (somente achievements)
           base: ""
-
-          # Arquivo gerado
           filename: metrics.achievements.svg
 
-          # Plugin Achievements
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
 
-          # Achievements específicos
+          # ⚠️ NÃO usar X
+          plugin_achievements_threshold: 1
+
           plugin_achievements_only: >-
             polyglot,
             stargazer,
@@ -41,6 +44,8 @@ jobs:
             explorer,
             infographile,
             manager
+
+      # 💾 3. Commitar o SVG no repositório
       - name: Commit and push
         run: |
           git config --global user.name 'github-actions[bot]'
