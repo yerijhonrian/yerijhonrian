@@ -32,6 +32,9 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 
 ---
 
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
 ## 🎯 Especialidades
 
 ✨ **Desenvolvimento Full Stack** - Criação de aplicações web completas, do frontend responsivo ao backend robusto
