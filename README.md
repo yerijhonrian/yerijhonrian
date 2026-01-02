@@ -38,74 +38,93 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
+<details>
+  <summary><h2>🎯 Especialidades</h2></summary>
 
-## 🎯 Especialidades
+  ✨ **Desenvolvimento Full Stack**  
+  Criação de aplicações web completas, do frontend responsivo ao backend robusto
 
-✨ **Desenvolvimento Full Stack** - Criação de aplicações web completas, do frontend responsivo ao backend robusto
+  🤖 **Automação de Processos (RPA/API)**  
+  Desenvolvimento de scripts e integração com APIs REST para automatizar tarefas de negócios
 
-🤖 **Automação de Processos (RPA/API)** - Desenvolvimento de scripts e integração com APIs REST para automatizar tarefas de negócios
+  ⚡ **Sites de Alto Desempenho**  
+  Landing Pages e sites otimizados para conversão, velocidade e SEO
 
-⚡ **Sites de Alto Desempenho** - Landing Pages e sites otimizados para conversão, velocidade e SEO
+  🔧 **Manutenção e Otimização**  
+  Refatoração, melhoria de performance e suporte técnico contínuo
+</details>
 
-🔧 **Manutenção e Otimização** - Refatoração, melhoria de performance e suporte técnico contínuo
 
----
+<details open>
+  <summary><h2>📊 Experiência Profissional</h2></summary>
 
-## 📊 Experiência Profissional
+  ### Full Stack Developer — Freelancer  
+  **2024 - Presente**
 
-### Full Stack Developer — Freelancer
-**2024 - Presente**
+  Desenvolvimento de aplicações web integrando front-end e back-end, com foco em automação de processos.  
+  Experiência em:
+  - Desenvolvimento de plataformas web completas (pedidos, reservas, automação de eventos)
+  - Automação de fluxos de trabalho, reduzindo tarefas manuais e aumentando eficiência
+  - Implementação de funcionalidades assíncronas e controle de estado avançado
+  - Contato direto com clientes para alinhamento de requisitos e entrega de soluções customizadas
 
-Desenvolvimento de aplicações web integrando front-end e back-end, com foco em automação de processos. Experiência em:
-- Desenvolvimento de plataformas web completas (pedidos, reservas, automação de eventos)
-- Automação de fluxos de trabalho, reduzindo tarefas manuais e aumentando eficiência
-- Implementação de funcionalidades assíncronas e controle de estado avançado
-- Contato direto com clientes para alinhamento de requisitos e entrega de soluções customizadas
+  ---
 
-### Production Manager — Dilly Sports
-**02/2024 - 07/2025**
+  ### Production Manager — Dilly Sports  
+  **02/2024 - 07/2025**
 
-Otimização de processos de produção, liderança de equipe e resolução ágil de problemas:
-- Redução de falhas e aceleração de processos de produção
-- Liderança em ambiente de alta demanda, priorizando eficiência e organização
-- Tomada de decisão estratégica alinhada com objetivos de negócio
+  Otimização de processos de produção, liderança de equipe e resolução ágil de problemas:
+  - Redução de falhas e aceleração de processos de produção
+  - Liderança em ambiente de alta demanda, priorizando eficiência e organização
+  - Tomada de decisão estratégica alinhada com objetivos de negócio
 
----
+</details>
 
-## 🚀 Projetos Destaque
 
-### 🍽️ Plataforma Web para Restaurante
-**Tecnologias:** Node.js, Express.js, MongoDB, JavaScript
+<details open>
+  <summary><h2>🚀 Projetos Destaque</h2></summary>
 
-Sistema Full Stack para gestão de pedidos, reservas e automação de eventos. A plataforma automatiza o fluxo de pedidos, reduzindo o tempo de atendimento e minimizando erros manuais. Integração com APIs para sincronização de dados em tempo real.
+  ### 🍽️ Plataforma Web para Restaurante  
+  **Tecnologias:** Node.js, Express.js, MongoDB, JavaScript  
 
-🔗 [Ver Projeto](https://joel-rian.github.io/Restaurante/) | 📝 [Código no GitHub](https://github.com/joel-rian/Restaurante)
+  Sistema Full Stack para gestão de pedidos, reservas e automação de eventos.  
+  A plataforma automatiza o fluxo de pedidos, reduzindo o tempo de atendimento e minimizando erros manuais.  
+  Integração com APIs para sincronização de dados em tempo real.
 
----
+  🔗 [Ver Projeto](https://joel-rian.github.io/Restaurante/) | 📝 [Código no GitHub](https://github.com/joel-rian/Restaurante)
 
-### 📱 Landing Page com Automação de Leads
-**Tecnologias:** HTML5, CSS3, JavaScript (ES6+)
+  ---
 
-Landing Page de alta conversão focada em captação de leads. Integração com API para redirecionamento automático de clientes para WhatsApp. Design responsivo e otimizado para conversão, com formulário que automatiza o contato com prospects.
+  ### 📱 Landing Page com Automação de Leads  
+  **Tecnologias:** HTML5, CSS3, JavaScript (ES6+)  
 
-🔗 [Ver Projeto](https://joel-rian.github.io/Mario-And-Luidi/) | 📝 [Código no GitHub](https://github.com/joel-rian/Mario-And-Luidi)
+  Landing Page de alta conversão focada em captação de leads.  
+  Integração com API para redirecionamento automático de clientes para WhatsApp.  
+  Design responsivo e otimizado para conversão, com formulário que automatiza o contato com prospects.
 
----
+  🔗 [Ver Projeto](https://joel-rian.github.io/Mario-And-Luidi/) | 📝 [Código no GitHub](https://github.com/joel-rian/Mario-And-Luidi)
 
-### 💰 Aplicação de Gestão Financeira
-**Tecnologias:** React, JavaScript (Assíncrono), Firebase/Local Storage
+  ---
 
-Aplicação para organização e controle de finanças pessoais com entradas, saídas, histórico completo com datas e descrições. Demonstra domínio de lógica complexa, controle de estado avançado em JavaScript e persistência de dados. Interface intuitiva focada em usabilidade.
+  ### 💰 Aplicação de Gestão Financeira  
+  **Tecnologias:** React, JavaScript (Assíncrono), Firebase / Local Storage  
 
-🔗 [Ver Projeto](https://joel-rian.github.io/MinhasFinancas/) | 📝 [Código no GitHub](https://github.com/joel-rian/MinhasFinancas)
+  Aplicação para organização e controle de finanças pessoais, com entradas, saídas e histórico completo.  
+  Demonstra domínio de lógica complexa, controle de estado avançado e persistência de dados.  
+  Interface intuitiva, focada em usabilidade e clareza.
 
----
+  🔗 [Ver Projeto](https://joel-rian.github.io/MinhasFinancas/) | 📝 [Código no GitHub](https://github.com/joel-rian/MinhasFinancas)
 
-## 🎓 Educação
+</details>
 
-**Full Stack Development** — DevClub (Em andamento)
----
+
+<details>
+  <summary><h2>🎓 Educação</h2></summary>
+
+  **Full Stack Development** — DevClub  
+  *(Em andamento)*
+</details>
+
 ## 🤝 Vamos Trabalhar Juntos?
 
 Se você está procurando um desenvolvedor Full Stack que não apenas escreve código limpo e bem documentado, mas que também pensa estrategicamente sobre como otimizar seus processos e gerar impacto real no seu negócio, **vamos conversar!**
