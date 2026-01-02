@@ -1,5 +1,9 @@
 name: GitHub Metrics - Achievements Compact
 
+# limit default GITHUB_TOKEN permissions
+permissions:
+  contents: read
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -8,29 +12,18 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     steps:
-      # 🔧 1. Instalar dependências necessárias
-      - name: Setup dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
-
-      # 🏆 2. Gerar métricas
+      - uses: actions/checkout@v4   # uses default GITHUB_TOKEN (safe for checkout)
       - uses: lowlighter/metrics@latest
         with:
+          # Use a PAT stored in repository secrets
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: yerijhonrian
           base: ""
           filename: metrics.achievements.svg
-
           plugin_achievements: yes
           plugin_achievements_display: compact
-
-          # ⚠️ NÃO usar X
-          plugin_achievements_threshold: 1
-
+          plugin_achievements_threshold: X
           plugin_achievements_only: >-
             polyglot,
             stargazer,
@@ -44,8 +37,6 @@ jobs:
             explorer,
             infographile,
             manager
-
-      # 💾 3. Commitar o SVG no repositório
       - name: Commit and push
         run: |
           git config --global user.name 'github-actions[bot]'
