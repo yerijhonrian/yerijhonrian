@@ -55,7 +55,7 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 </details>
 
 
-<details open>
+<details>
   <summary><h2>📊 Experiência Profissional</h2></summary>
 
   ### Full Stack Developer — Freelancer  
@@ -81,7 +81,7 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 </details>
 
 
-<details open>
+<details>
   <summary><h2>🚀 Projetos Destaque</h2></summary>
 
   ### 🍽️ Plataforma Web para Restaurante  
