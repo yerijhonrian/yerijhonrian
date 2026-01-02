@@ -1,8 +1,7 @@
 name: GitHub Metrics - Achievements Compact
 
-# limit default GITHUB_TOKEN permissions
 permissions:
-  contents: read
+  contents: write
 
 on:
   schedule:
@@ -12,18 +11,23 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4   # uses default GITHUB_TOKEN (safe for checkout)
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+
+      - name: Generate achievements metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Use a PAT stored in repository secrets
           token: ${{ secrets.GIT_HUB }}
+
           user: yerijhonrian
           base: ""
           filename: metrics.achievements.svg
+
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: 1
+
           plugin_achievements_only: >-
             polyglot,
             stargazer,
@@ -37,10 +41,10 @@ jobs:
             explorer,
             infographile,
             manager
-      - name: Commit and push
+
+      - name: Commit and push metrics
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git status
           git add metrics.achievements.svg
-          git commit -m "Update achievements metrics" || echo "No changes to commit"
+          git commit -m "Update achievements metrics" || echo "No changes"
           git push
