@@ -34,9 +34,11 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+---
+
 ## 🏆 Achievements
 
-![Metrics](https://raw.githubusercontent.com/yerijhonrian/yerijhonrian/main/metrics.svg)
+![Metrics](https://metrics.lecoq.io/yerijhonrian?template=classic)
 
 ---
 
