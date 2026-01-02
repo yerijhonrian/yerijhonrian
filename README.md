@@ -36,9 +36,10 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 
 ## 🏆 Achievements
 
-![Metrics](https://metrics.lecoq.io/yerijhonrian?template=classic)
+![Metrics](https://raw.githubusercontent.com/yerijhonrian/yerijhonrian/main/metrics.svg)
 
 ---
+
 ## 🎯 Especialidades
 
 ✨ **Desenvolvimento Full Stack** - Criação de aplicações web completas, do frontend responsivo ao backend robusto
