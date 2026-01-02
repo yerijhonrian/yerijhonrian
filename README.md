@@ -1,7 +1,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 👋 Olá! Sou Yerijhon Rian
 
-**Full Stack Developer | Especialista em Automação de Processos**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&height=60&lines=%F0%9F%91%8B+Ol%C3%A1!+Sou+Yerijhon+Rian;AI+Automation+Specialist;Building+Intelligent+Systems+to+Optimize+Business+Operations)](https://git.io/typing-svg)
 
 Transformo requisitos de negócios em soluções digitais eficientes, escaláveis e automatizadas. Sou apaixonado por criar aplicações web robustas que não apenas funcionam, mas que **eliminam tarefas manuais e impulsionam a eficiência operacional**.
 
@@ -32,11 +31,7 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 
 ---
 
-## 🏆 Achievements
-![Achievements](https://raw.githubusercontent.com/yerijhonrian/yerijhonrian/main/metrics.achievements.svg)
 
-## 🎮 Dashboard
-![Dashboard](https://raw.githubusercontent.com/yerijhonrian/yerijhonrian/main/metrics.dashboard.svg)
 
 ---
 
