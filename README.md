@@ -41,6 +41,9 @@ Transformo requisitos de negócios em soluções digitais eficientes, escalávei
 ---
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yerijhonrian/yerijhonrian/main/metrics.achievements.svg" />
+</p>
 
 ---
 
