@@ -25,7 +25,7 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
 
-          # LISTA SEGURA (não usa Projects)
+         
           plugin_achievements_only: >-
             stargazer,
             developer,
