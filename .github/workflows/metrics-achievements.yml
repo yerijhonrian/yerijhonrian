@@ -22,7 +22,7 @@ jobs:
 
           user: yerijhonrian
           base: ""
-          filename: ./metrics.achievements.svg
+          filename: metrics.achievements.svg
 
           plugin_achievements: yes
           plugin_achievements_display: compact
