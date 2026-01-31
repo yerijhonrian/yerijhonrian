@@ -6,7 +6,7 @@
 
 ---
 
-### 🌐 [Acesse meu Digital Workspace](https://www.yerijhonriandev.online/) • [LinkedIn](https://linkedin.com/in/yerijhonrian) • [WhatsApp](https://wa.me/seunumeroaqui)
+### 🌐 [Acesse meu Digital Workspace](https://www.yerijhonriandev.online/) • [LinkedIn](https://linkedin.com/in/yerijhonrian) 
 
 </div>
 
